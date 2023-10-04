@@ -27,7 +27,7 @@ export class RoomsComponent implements OnInit {
         'https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80',
       checkinTime: new Date('11-Nov-2021'),
       checkoutTime: new Date('12-Nov-2021'),
-      rating: 4.5
+      rating: 4.5819
     },
     {
       roomNumber: 2,
@@ -38,7 +38,7 @@ export class RoomsComponent implements OnInit {
         'https://images.unsplash.com/photo-1584132915807-fd1f5fbc078f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80',
       checkinTime: new Date('15-Nov-2021'),
       checkoutTime: new Date('20-Nov-2021'),
-      rating: 8
+      rating: 8.83
     },
     {
       roomNumber: 3,
@@ -50,7 +50,7 @@ export class RoomsComponent implements OnInit {
         'https://images.unsplash.com/photo-1631049552057-403cdb8f0658?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80',
       checkinTime: new Date('25-Nov-2021'),
       checkoutTime: new Date('29-Nov-2021'),
-      rating: 9
+      rating: 9.16
     },
   ];
 
